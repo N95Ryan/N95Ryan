@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bonjour à tous, je suis Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**N95Ryan/N95Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 &nbsp; Mon [portfolio](https://michaelyeates.co.uk](https://ryan-pina.com/)
+- 🌱 &nbsp; En ce moment j'apprends à utiliser ReactNative 
+- 💬 &nbsp; Pour me contacter, je vous laisse mon [Twitter](https://twitter.com/N95_Ryan) et mon [LinkedIn](https://www.linkedin.com/in/ryan-pina-silasse/)
 
-Here are some ideas to get you started:
+#### Mes outils :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+
+[Mes statistiques :](https://github-readme-stats.vercel.app/api?username=N95Ryan)](https://github.com/anuraghazra/github-readme-stats)
