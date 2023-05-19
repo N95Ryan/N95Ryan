@@ -1,4 +1,4 @@
-### Bonjour à tous, je m'appelle Ryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Bonjour à tous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
 - 💻 &nbsp; Mon [portfolio](https://ryan-pina.com/)
 - 🚧 &nbsp; En ce moment, je m'intéresse à ReactNative ainsi qu'à différentes bibliothèques JavaScript.
