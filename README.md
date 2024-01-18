@@ -16,13 +16,13 @@
 
   - #### Back :
 ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white&color=%23E10098)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933)
 ![Go](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white&color=%23777BB4)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
 
 
   - #### Versioning :
-![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=%23181717)
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26)
