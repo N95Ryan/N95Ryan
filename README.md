@@ -1,7 +1,7 @@
 ### Bonjour à tous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
 - 💻 &nbsp; Mon [portfolio](https://ryan-pina.com/)
-- 💼 &nbsp; [Fiverr](https://www.fiverr.com/n95ryan)
+- 💼 &nbsp; [Vercel](https://vercel.com/n95ryan)
 - 💬 &nbsp; Si vous recherchez un développeur front-end pour vos projets, n'hésitez pas à me contacter
 
 ### Mes outils 🛠 :
@@ -33,5 +33,4 @@
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white&color=%2300C4CC)
 
 ### Mes statistiques 📊 :
-![Mes stats](https://github-readme-stats.vercel.app/api?username=N95Ryan&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N95Ryan&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
