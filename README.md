@@ -13,7 +13,6 @@
   - #### Front :
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=grey&color=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&color=%23000000)
-![Sass](https://img.shields.io/badge/Sass-pink?style=for-the-badge&logo=nextdotjs&logoColor=white&color=%23000000)
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
 
   - #### Back :
