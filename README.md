@@ -1,36 +1,43 @@
-### Bonjour à tous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+### Hey ! 👋  
+I'm **Ryan**, a **web & mobile developer** focused on crafting high-performance applications. 🚀  
 
-- 💻 &nbsp; Mon [portfolio](https://ryan-pina.com/)
-- 💼 &nbsp; Mon [LinkedIn](https://www.linkedin.com/in/ryan-pina-silasse/)
+---
 
-### Mes outils 🛠 :
+### 🛠 About Me  
+- 🌍 Based in **Paris, France**  
+- 💻 Portfolio → [ryan-pina.dev](https://ryan-pina.dev/en)  
+- 💼 LinkedIn → [Ryan Pina-Silasse](https://www.linkedin.com/in/ryan-pina-silasse/)  
+- 📱 Currently building **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
+- 🌱 Currently mastering **Golang**  
 
-  - #### Langages :
-![JavaScript](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=grey)
-![TypeScript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-![Go](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=go&logoColor=white&color=%2300ADD8)
+---
 
-  - #### Front :
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=grey&color=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white&color=%23000000)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
+### 🛠 Tech Stack  
 
-  - #### Back :
-![Node.js](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%23339933)
-![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white&color=%23E10098)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&color=%234479A1)
+#### 📌 Languages  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
+#### ⚡ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white)  
 
-  - #### Gestion de code :
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=%23181717)
-![GitLab](https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=white&color=%23FC6D26)
+#### 🔥 Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
+#### 🛠 DevOps & Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-- #### Conception graphique :
-![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=%2331A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=white&color=%23FF9A00)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E)
+---
 
-### Mes statistiques 📊 :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N95Ryan&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 🌐 Socials  
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/n95ryan.bsky.social)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-pina-silasse/)  
+
+---
+
+### 📊 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N95Ryan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
