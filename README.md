@@ -1,5 +1,5 @@
-### Hey ! 👋  
-I'm **Ryan**, a **web & mobile developer** focused on building high-performance native apps.
+### Hey ! 👋
+I'm Ryan, a web & mobile developer focused on building high-performance native apps.
 
 ---
 
