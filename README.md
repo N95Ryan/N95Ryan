@@ -3,17 +3,16 @@ I'm Ryan, a web & mobile developer focused on building high-performance native a
 
 ---
 
-### 🥷🏿 About Me  
-- 🌍 Based in **Paris, France**  
+### 👾 About Me  
+- 🌍 I'm based in **Paris, France**  
 - 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**
-- 💼 LinkedIn → **[Ryan Pina-Silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**
-- 👾 Bug.to → **[N95Ryan](https://bug.to/n95ryan)**
-- 🏗️ Currently building → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
-- 🌱 Currently learning → **Go**  
+- 💼 LinkedIn → **[Ryan Pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**
+- 🏗️ Currently I'm building → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
+- 🌱 And I'm currently mastering Go
 
 ---
 
-### 💻 Tech Stack  
+### 💻 My Tech Stack  
 
 #### 📚 Languages  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
