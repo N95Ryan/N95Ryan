@@ -7,7 +7,7 @@ I'm **Ryan**, a **web & mobile developer** focused on building high-performance 
 - 🌍 Based in **Paris, France**  
 - 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**
 - 💼 LinkedIn → **[Ryan Pina-Silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**
-- 👾 Bug To → **[N95Ryan](https://bug.to/n95jsryan)
+- 👾 Bug.to → **[N95Ryan](https://bug.to/n95jsryan)**
 - 🏗️ Currently building → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
 - 🌱 Currently learning → **Go**  
 
