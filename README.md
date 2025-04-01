@@ -1,29 +1,30 @@
 ### Hey ! 👋  
-I'm **Ryan**, a **web & mobile developer** focused on crafting high-performance apps. 🚀  
+I'm **Ryan**, a **web & mobile developer** focused on building high-performance native apps.
 
 ---
 
-### 🛠 About Me  
+### 🥷🏿 About Me  
 - 🌍 Based in **Paris, France**  
 - 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**
 - 💼 LinkedIn → **[Ryan Pina-Silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**
-- 📱 Currently building → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
-- 🌱 Currently learning **Go**  
+- 👾 Bug To → **[N95Ryan](https://bug.to/n95jsryan)
+- 🏗️ Currently building → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
+- 🌱 Currently learning → **Go**  
 
 ---
 
-### 🛠 Tech Stack  
+### 💻 Tech Stack  
 
-#### 📌 Languages  
+#### 📚 Languages  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 
-#### ⚡ Frameworks & Libraries  
+#### ⚛️ Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=react&logoColor=white)  
 
-#### 🔥 Backend & Databases  
+#### ⚙️ Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
