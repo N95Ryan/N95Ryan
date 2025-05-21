@@ -7,8 +7,8 @@ I'm Ryan, a web & mobile developer focused on building high-performance native a
 - 🌍 I'm based in **Paris, France**  
 - 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**
 - 💼 LinkedIn → **[Ryan Pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**
-- 🏗️ Currently I'm working on → **[HairSwift](https://github.com/N95Ryan/HairSwift)**
-- 🌱 And I'm currently mastering Go
+- 🏗️ Currently working on → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
+- 🌱 And learning **Go**
 
 ---
 
