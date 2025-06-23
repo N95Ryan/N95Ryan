@@ -4,7 +4,7 @@ I'm Ryan, a web & mobile developer focused on building high-performance native a
 ---
 
 ### 👾 About Me  
-- 🌍 I'm based in **Paris, France**  
+- 🌍 I'm based in **Canada**  
 - 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**
 - 💼 LinkedIn → **[Ryan Pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**
 - 🏗️ Currently working on → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
