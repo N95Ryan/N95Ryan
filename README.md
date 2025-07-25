@@ -1,14 +1,12 @@
-### Hey ! 👋
-I'm Ryan, a web & mobile developer focused on building high-performance native apps.
+### Ryan 👾 | Web & Mobile Developer
 
 ---
 
-### 👾 About Me  
-- 🌍 I'm based in **Canada**  
-- 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**
-- 💼 LinkedIn → **[Ryan Pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**
-- 🏗️ Currently working on → **[Lift Up](https://github.com/N95Ryan/Lift-Up)**
-- 🌱 And learning **Go**
+### ℹ️ About Me  
+- 🌍 I'm based in **Canada 🇨🇦**  
+- 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**  
+- 💼 LinkedIn → **[Ryan Pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**  
+- 🏗️ Currently working on → **[Neat Barber](https://github.com/N95Ryan/neat-barber)**  
 
 ---
 
@@ -19,6 +17,7 @@ I'm Ryan, a web & mobile developer focused on building high-performance native a
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
 #### ⚛️ Frontend  
@@ -32,10 +31,17 @@ I'm Ryan, a web & mobile developer focused on building high-performance native a
 
 #### ⚙️ Backend  
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+</p>
+
+#### 📱 Mobile  
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
 #### 🛠 Tools / DevOps  
@@ -48,12 +54,6 @@ I'm Ryan, a web & mobile developer focused on building high-performance native a
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
-#### 📱 Mobile  
-<p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-</p>
 
 ---
 
