@@ -2,14 +2,6 @@
 
 ---
 
-### ℹ️ About Me  
-- 🌍 I'm based in **Canada 🇨🇦**  
-- 💻 Portfolio → **[ryan-pina.dev](https://ryan-pina.dev/en)**  
-- 💼 LinkedIn → **[Ryan Pina-Silasse](https://www.linkedin.com/in/ryan-pina-silasse/)**  
-- 🏗️ Currently working on → **[NEAT Barber](https://github.com/N95Ryan/neat-barber)**  
-
----
-
 ### 💻 My Tech Stack  
 
 #### 📚 Languages  
