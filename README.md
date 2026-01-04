@@ -1,6 +1,7 @@
-# Ryan PINA-SILASSE
+# Ryan PINA-SILASSE 👾
 
-Software engineer specialized in Go and Typescript. I solve complex problems with simple and maintainable solutions. 
+Software engineer specialized in Go, TypeScript and React. <br>
+I solve complex problems with simple, maintainable solutions and own projects end-to-end : requirements → architecture → production. <br>
 I've worked across diverse industries : foodtech startups, digital media platforms, and personal services.
 
 ---
@@ -50,7 +51,7 @@ I've worked across diverse industries : foodtech startups, digital media platfor
 
 ## 🚀 Featured Projects
 
-- **[Bumble B](https://github.com/N95Ryan/Bumble-B)** — Fullstack IoT mobile app (React Native + Expo)
-- **[Neat Barber](https://github.com/N95Ryan/neat-barber)** — Modern website redesign (Astro, islands architecture)
-- **[The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman-back)** — Fullstack retro hangman game (React + Gin)
-- **[Leaf](https://github.com/N95Ryan/leaf)** — Golang TUI app
+- **[Bumble B](https://github.com/N95Ryan/Bumble-B)** : Fullstack IoT mobile app (React Native + Expo)
+- **[Neat Barber](https://github.com/N95Ryan/neat-barber)** : Modern website redesign (Astro, islands architecture)
+- **[The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman-back)** : Fullstack retro hangman game (React + Gin)
+- **[Leaf](https://github.com/N95Ryan/leaf)** : Golang TUI app
