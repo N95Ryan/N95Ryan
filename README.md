@@ -55,3 +55,6 @@ I've worked across diverse industries : foodtech startups, digital media platfor
 - **[Neat Barber](https://github.com/N95Ryan/neat-barber)** : Modern website redesign (Astro, islands architecture)
 - **[The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman-back)** : Fullstack retro hangman game (React + Gin)
 - **[Leaf](https://github.com/N95Ryan/leaf)** : Golang TUI app
+
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N95Ryan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
