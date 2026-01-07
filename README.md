@@ -56,6 +56,6 @@ I've worked across diverse industries : foodtech startups, digital media platfor
 ## 🚀 Featured Projects
 
 - **[Bumble B](https://github.com/N95Ryan/Bumble-B)** : Fullstack IoT mobile app (React Native + Expo)
-- **[Neat Barber](https://github.com/N95Ryan/neat-barber)** : Modern website redesign (Astro, islands architecture)
+- **[Neat Barber](https://github.com/N95Ryan/neat-barber)** : Modern website rebuild (Astro)
 - **[The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman-back)** : Fullstack retro hangman game (React + Gin)
-- **[Leaf](https://github.com/N95Ryan/leaf)** : Golang TUI app
+- **[Leaf](https://github.com/N95Ryan/leaf)** : Golang TUI markdown note manager
