@@ -52,7 +52,6 @@ Experience across foodtech, media, e-commerce and service-oriented products.
 <p>
 <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lighthouse_CI-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"/>
 </p>
 
