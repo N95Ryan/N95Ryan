@@ -43,22 +43,32 @@ Open to new opportunities in **Toronto** starting **2027**.
 
 ## 🚀 Featured Projects
 
-- **[Midbec Journey](https://github.com/N95Ryan/midbec-journey)**  
-  Sole engineering at a production company — architecture decisions, migration from legacy PHP/Python to Go + Next.js, 2M+ inventory records.  
-  *Go, Next.js, PostgreSQL — system design, technical ownership, real-world constraints.*
+- **🏭 [Midbec Journey](https://github.com/N95Ryan/midbec-journey)**  
+  Solo engineer at a home appliance distributor. <br/>
+  Migrating a legacy PHP/Python system to Go + Next.js, managing 2M+ inventory records in production. <br/>
+  
+  *Go (Chi), Next.js, PostgreSQL*
 
-- **[Flip](https://github.com/N95Ryan/Flip)**  
-  Judo companion app — technique library & training journal with Stripe-powered premium tier.  
-  *Go (Chi) REST API + Expo — Stripe subscriptions, webhook-driven state management, Supabase.*
+- **🥋 [Flip](https://github.com/N95Ryan/Flip)**  
+  A judo pocket companion. Free technique library, premium training journal behind a Stripe paywall. <br/>
+  Built end-to-end, from the Go API to the App Store. <br/>
+  
+  *Go (Chi), Expo, Stripe, Supabase*
 
-- **[Leaf](https://github.com/N95Ryan/leaf)**  
-  Terminal-based markdown note manager built for speed and simplicity.  
-  *Go TUI — CLI UX, bubbletea, lightweight local-first architecture.*
+- **🌿 [Leaf](https://github.com/N95Ryan/leaf)**  
+  Markdown notes in your terminal. <br/>
+  No app, no cloud, no noise. Just write. <br/>
+  
+  *Go, Bubbletea*
 
-- **[The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman-back)**  
-  Fullstack retro game with cleanly separated frontend and backend.  
-  *Go (Chi) REST API + React frontend — game logic, persistence, deployment.*
+- **🎮 [The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman-back)**  
+  A retro hangman game with a proper frontend/backend split. <br/>
+  Old school vibe, clean architecture. <br/>
+  
+  *Go (Gin), React*
 
-- **[Neat Barber Paris](https://github.com/N95Ryan/neat-barber)**  
-  Performance-first rebuild for a premium barbershop — 93% JS reduction, +25% organic traffic.  
-  *Astro, TypeScript — perf optimization, SEO, production metrics.*
+- **💈 [Neat Barber Paris](https://github.com/N95Ryan/neat-barber)**  
+  Full rebuild of a Paris barbershop site. <br/>
+  Cut 93% of the JS bundle, +25% organic traffic in production. <br/>
+  
+  *Astro, TypeScript*
