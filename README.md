@@ -44,7 +44,7 @@ Open to new opportunities in **Toronto** starting **2027**.
 ## 🚀 Featured Projects
 
 - **[Midbec Journey](https://github.com/N95Ryan/midbec-journey)**  
-  Solo engineering at a production company — architecture decisions, migration from legacy PHP/Python to Go + Next.js, 2M+ inventory records.  
+  Sole engineering at a production company — architecture decisions, migration from legacy PHP/Python to Go + Next.js, 2M+ inventory records.  
   *Go, Next.js, PostgreSQL — system design, technical ownership, real-world constraints.*
 
 - **[Flip](https://github.com/N95Ryan/Flip)**  
