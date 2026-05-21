@@ -62,7 +62,7 @@ Open to new opportunities in **Toronto** starting **2027**.
   
   * 🖥️ : Go, Bubbletea
 
-- **🎮 [The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman-back)**  
+- **🎮 [The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman)**  
   A retro hangman game with a proper frontend/backend split. <br/>
   Old school vibe, clean architecture. <br/>
   
