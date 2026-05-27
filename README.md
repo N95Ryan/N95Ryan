@@ -1,6 +1,6 @@
 # Ryan PINA-SILASSE 👾
 
-Software Engineer based in Canada, specialized in **Go**, **TypeScript** and **React**.  
+Software Engineer based in Canada, specialized in **Go** and **React**.  
 I own projects end-to-end → **requirements → architecture → production.**  
 I thrive as the sole engineer making technical decisions that ship.
 
