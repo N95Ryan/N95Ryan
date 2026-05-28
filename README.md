@@ -54,7 +54,7 @@ Open to new opportunities in **Toronto** starting **2027**.
   A judo pocket companion. Free technique library, premium training journal behind a Stripe paywall. <br/>
   Built end-to-end, from the Go API to the App Store. <br/>
   
-  * 🖥️ : Go (Chi), Expo, Stripe, Supabase
+  * 🖥️ : Go (Chi), Expo, Stripe, Neon
 
 - **🌿 [Leaf](https://github.com/N95Ryan/leaf)**  
   Markdown notes in your terminal. <br/>
