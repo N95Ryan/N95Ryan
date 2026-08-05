@@ -5,7 +5,6 @@ I own projects end-to-end → **requirements → architecture → production.**
 I thrive as the sole engineer making technical decisions that ship.
 
 Currently building production systems at **[Midbec](https://github.com/N95Ryan/midbec-journey)** (Drummondville, QC).  
-Open to new opportunities in **Toronto** starting **2027**.
 
 ---
 
@@ -26,10 +25,10 @@ Open to new opportunities in **Toronto** starting **2027**.
 
 ### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Go_(Chi / Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Chi / Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
 </p>
 
 ### 🛠 DevOps & Tooling
