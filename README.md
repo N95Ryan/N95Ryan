@@ -1,6 +1,6 @@
 # Ryan PINA-SILASSE 👾
 
-**Software Engineer based specialized in Go and React / Next.js.**
+**Fullstack Software Engineer based specialized in Go and React / Next.js.**
 
 I build and ship production systems end-to-end → **requirements → architecture → development → production → maintenance.**
 
@@ -111,8 +111,6 @@ I believe good engineering is mostly about **making complexity disappear.**
 
 🇨🇦 **Based in Drummondville, Quebec**
 
-🚀 **Open to relocation → Toronto**
-
 🔨 **Building production systems at Midbec**
 
 📚 **Deepening my expertise in Go → system design → cloud-native engineering**
@@ -121,6 +119,6 @@ I believe good engineering is mostly about **making complexity disappear.**
 
 ## 📫 Get in touch
 
-- **Portfolio:** [ryan-pina.dev](https://www.ryan-pina.dev)
-- **LinkedIn:** [linkedin.com/in/ryan-pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)
-- **GitHub:** [github.com/N95Ryan](https://github.com/N95Ryan)
+- **Portfolio :** [ryan-pina.dev](https://www.ryan-pina.dev)
+- **LinkedIn :** [linkedin.com/in/ryan-pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)
+- **GitHub :** [github.com/N95Ryan](https://github.com/N95Ryan)
