@@ -1,6 +1,6 @@
 # Ryan PINA-SILASSE 👾
 
-**Software Engineer based in Canada, specialized in Go and React.**
+**Software Engineer based specialized in Go and React / Next.js.**
 
 I build and ship production systems end-to-end → **requirements → architecture → development → production → maintenance.**
 
@@ -8,7 +8,7 @@ With **5+ years of experience**, I focus on building simple, maintainable system
 
 Currently rebuilding the e-commerce platform at **[Midbec](https://github.com/N95Ryan/midbec-journey)** in Drummondville, QC.
 
-> **KISS isn't just my coding principle. It's my design system.**
+> **KISS isn't just my coding principle. It's my inner design system.**
 
 ---
 
