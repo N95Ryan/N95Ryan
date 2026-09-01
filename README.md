@@ -1,6 +1,6 @@
 # Ryan PINA-SILASSE 👾
 
-**Fullstack Software Engineer based specialized in Go and React / Next.js.**
+**Fullstack Software Engineer specialized in Go and React / Next.js.**
 
 I build and ship production systems end-to-end → **requirements → architecture → development → production → maintenance.**
 
