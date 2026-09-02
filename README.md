@@ -4,7 +4,7 @@
 
 I build and ship production systems end-to-end → **requirements → architecture → development → production → maintenance.**
 
-With **5+ years of experience**, I focus on building simple, maintainable systems that solve real business problems.
+With **6+ years of experience**, I focus on building simple, maintainable systems that solve real business problems.
 
 Currently rebuilding the e-commerce platform at **[Midbec](https://github.com/N95Ryan/midbec-journey)** in Drummondville, QC.
 
