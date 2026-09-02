@@ -2,11 +2,14 @@
 
 **Fullstack Software Engineer specialized in Go and React / Next.js.**
 
-I build and ship production systems end-to-end → **requirements → architecture → development → production → maintenance.**
+I build and ship production systems end-to-end : **requirements → architecture → development → production → maintenance.**
 
 With **6+ years of experience**, I focus on building simple, maintainable systems that solve real business problems.
 
-Currently rebuilding the e-commerce platform at **[Midbec](https://github.com/N95Ryan/midbec-journey)** in Drummondville, QC.
+### 🎯 Currently
+- 📍 **Based in Drummondville, QC**
+- 🔨 **Building production systems at Midbec**
+- 📚 **Deepening my expertise in Go → system design → cloud-native engineering**
 
 > **KISS isn't just my coding principle. It's my inner design system.**
 
@@ -32,7 +35,7 @@ Currently rebuilding the e-commerce platform at **[Midbec](https://github.com/N9
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Data
 
 <p>
   <img src="https://img.shields.io/badge/Go_(Chi_/_Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -48,6 +51,7 @@ Currently rebuilding the e-commerce platform at **[Midbec](https://github.com/N9
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bun-D4AF37?style=for-the-badge&logo=bun&logoColor=white"/>
 </p>
 
 ### 🧪 Testing & Quality
@@ -62,32 +66,21 @@ Currently rebuilding the e-commerce platform at **[Midbec](https://github.com/N9
 ## 🚀 Featured Projects
 
 * **🏭 [Midbec Journey](https://github.com/N95Ryan/midbec-journey)**
-  Solo engineer at a home appliance distributor. <br/>
-  Migrating a legacy PHP/Python system to Go + Next.js, managing 2M+ inventory records in production. <br/>
+  Solo engineer at a home appliance parts distributor. <br/>
+  Migrating a legacy PHP / Python system to a modern Go / Next.js stack. <br/>
+  Managing 2M+ inventory records in production. <br/>
 
   * 🖥️ : Go (Chi), Next.js, PostgreSQL
 
 * **🥋 [Flip](https://github.com/N95Ryan/Flip)**
-  A judo pocket companion. Free technique library, premium training journal behind a Stripe paywall. <br/>
+  A judo pocket companion. <br/>  Free technique library, premium training journal behind a Stripe paywall. <br/>
   Built end-to-end → from the Go API to the App Store. <br/>
 
   * 🖥️ : Go (Chi), Expo, Stripe, Neon
 
-* **🌿 [Leaf](https://github.com/N95Ryan/leaf)**
-  Markdown notes in your terminal. <br/>
-  No app, no cloud, no noise. Just write. <br/>
-
-  * 🖥️ : Go, Bubbletea
-
-* **🎮 [The 8 Bits Hangman](https://github.com/N95Ryan/the-8bits-hangman)**
-  A retro hangman game. <br/>
-  Old school vibe, clean architecture. <br/>
-
-  * 🖥️ : Go (Gin), React
-
 * **💈 [Neat Barber Paris](https://github.com/N95Ryan/neat-barber)**
   Full rebuild of a Paris barbershop site. <br/>
-  Cut 93% of the JS bundle → 3× faster page loads → +25% organic traffic in production. <br/>
+  93% less JavaScript · 3× faster page loads · +20% new customers <br/>
 
   * 🖥️ : Astro, TypeScript
 
@@ -107,18 +100,8 @@ I believe good engineering is mostly about **making complexity disappear.**
 
 ---
 
-## 📍 Currently
-
-🇨🇦 **Based in Drummondville, Quebec**
-
-🔨 **Building production systems at Midbec**
-
-📚 **Deepening my expertise in Go → system design → cloud-native engineering**
-
----
-
 ## 📫 Get in touch
 
-- **Portfolio :** [ryan-pina.dev](https://www.ryan-pina.dev)
-- **LinkedIn :** [linkedin.com/in/ryan-pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)
-- **GitHub :** [github.com/N95Ryan](https://github.com/N95Ryan)
+* **Portfolio :** [ryan-pina.dev](https://www.ryan-pina.dev)
+* **LinkedIn :** [linkedin.com/in/ryan-pina-silasse](https://www.linkedin.com/in/ryan-pina-silasse/)
+* **GitHub :** [github.com/N95Ryan](https://github.com/N95Ryan)
