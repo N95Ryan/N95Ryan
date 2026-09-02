@@ -61,6 +61,13 @@ With **6+ years of experience**, I focus on building simple, maintainable system
   <img src="https://img.shields.io/badge/Lighthouse_CI-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white"/>
 </p>
 
+### 🤖 AI & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
