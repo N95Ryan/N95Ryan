@@ -38,7 +38,7 @@ With **6+ years of experience**, I focus on building simple, maintainable system
 ### ⚙️ Backend & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Go_(Chi_/_Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go_(Chi)-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
 </p>
