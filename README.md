@@ -4,7 +4,7 @@
 
 I build and ship production systems end-to-end : **requirements → architecture → development → production → maintenance.**
 
-With **6+ years of experience**, I focus on building simple, maintainable systems that solve real business problems.
+With **6+ years of experience**, I focus on building simple, maintainable systems that solve real business problems at scale.
 
 ### 🎯 Currently
 - 📍 **Based in Drummondville, QC**
@@ -39,17 +39,20 @@ With **6+ years of experience**, I focus on building simple, maintainable system
 ### ⚙️ Backend & Data
 
 <p>
-<img src="https://img.shields.io/badge/Go_(Chi_%2F_Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go_(Chi_%2F_Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-### 🛠 DevOps & Tooling
+### 🛠 DevOps, Cloud & Tooling
 
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -79,21 +82,22 @@ With **6+ years of experience**, I focus on building simple, maintainable system
 * **🏭 [Midbec Journey](https://github.com/N95Ryan/midbec-journey)**
   Solo engineer at a home appliance parts distributor. <br/>
   Migrating a legacy PHP / Python system to a modern Go / Next.js stack. <br/>
-  Managing 2M+ inventory records in production. <br/>
+  Managing 2M+ inventory records in production, on a platform serving 9M+ requests/month. <br/>
 
-  * 🖥️ : Go (Chi), Next.js, PostgreSQL
+  * 🖥️ : Go (Chi), PostgreSQL, Next.js, React, TypeScript, TanStack Query, Redux Toolkit, Tailwind CSS, GitLab CI/CD
 
 * **🥋 [Flip](https://github.com/N95Ryan/Flip)**
-  A judo pocket companion. <br/>  Free technique library, premium training journal behind a Stripe paywall. <br/>
-  Built end-to-end → from the Go API to the App Store. <br/>
+  A judo pocket companion. <br/>
+  Free technique library, premium training journal behind a Stripe paywall. <br/>
+  Built end-to-end → from the Go API to the mobile app, with the App Store release in progress. <br/>
 
-  * 🖥️ : Go (Chi), Expo, Stripe, Neon
+  * 🖥️ : Go (Chi), Expo, Stripe, Neon, Docker, AWS, Terraform
 
 * **💈 [Neat Barber Paris](https://github.com/N95Ryan/neat-barber)**
   Full rebuild of a Paris barbershop site. <br/>
-  93% less JavaScript · 3× faster page loads · +20% new customers <br/>
+  93% less JavaScript · Lighthouse 68 → 94 · +25% organic traffic <br/>
 
-  * 🖥️ : Astro, TypeScript
+  * 🖥️ : Astro, TypeScript, WordPress GraphQL, Cloudinary, Playwright, Lighthouse CI
 
 ---
 
