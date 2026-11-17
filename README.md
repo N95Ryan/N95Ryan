@@ -4,12 +4,13 @@
 
 I build and ship production systems end-to-end : **requirements → architecture → development → production → maintenance.**
 
-With **6+ years of experience**, I focus on building simple, maintainable systems that solve real business problems at scale.
+With **6+ years of experience**, I focus on building simple, maintainable systems that solve real business problems at scale, from the code down to the infrastructure it runs on.
 
 ### 🎯 Currently
 - 📍 **Based in Drummondville, QC**
-- 🔨 **Building production systems at Midbec**
-- 📚 **Deepening my expertise in Go → system design → cloud-native engineering**
+- 🔨 **Building production systems at Midbec** → from a 10-year-old legacy PHP system to a modern Go / Next.js stack
+- 📚 **Improving my skills in system design and cloud-native engineering**
+- 🔜 **Side quest :** building my own homelab, where my side projects live
 
 > **KISS isn't just my coding principle. It's my inner design system.**
 
@@ -77,14 +78,7 @@ With **6+ years of experience**, I focus on building simple, maintainable system
 
 ---
 
-## 🚀 Featured Projects
-
-* **🏭 [Midbec Journey](https://github.com/N95Ryan/midbec-journey)**
-  Solo engineer at a home appliance parts distributor. <br/>
-  Migrating a legacy PHP / Python system to a modern Go / Next.js stack. <br/>
-  Managing 2M+ inventory records in production, on a platform serving 9M+ requests/month. <br/>
-
-  * 🖥️ : Go (Chi), PostgreSQL, Next.js, React, TypeScript, TanStack Query, Redux Toolkit, Tailwind CSS, GitLab CI/CD
+## 🚀 Featured Project
 
 * **🥋 [Flip](https://github.com/N95Ryan/Flip)**
   A judo pocket companion. <br/>
@@ -92,12 +86,6 @@ With **6+ years of experience**, I focus on building simple, maintainable system
   Built end-to-end → from the Go API to the mobile app, with the App Store release in progress. <br/>
 
   * 🖥️ : Go (Chi), Expo, Stripe, Neon, Docker, AWS, Terraform
-
-* **💈 [Neat Barber Paris](https://github.com/N95Ryan/neat-barber)**
-  Full rebuild of a Paris barbershop site. <br/>
-  93% less JavaScript · Lighthouse 68 → 94 · +25% organic traffic <br/>
-
-  * 🖥️ : Astro, TypeScript, WordPress GraphQL, Cloudinary, Playwright, Lighthouse CI
 
 ---
 
@@ -107,10 +95,8 @@ I believe good engineering is mostly about **making complexity disappear.**
 
 * **KISS** → Keep It Simple, Stupid.
 * **Ownership** → If I build it, I own it from architecture to production.
-* **Pragmatism** → Choose the simplest solution that solves the actual problem.
 * **Maintainability** → Code is read far more often than it is written.
 * **Performance** → Measure first → optimize where it matters.
-* **Automation** → If something can be reliably automated, it should be.
 * **Continuous learning** → Tools change → engineering fundamentals don't.
 
 ---
