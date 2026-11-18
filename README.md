@@ -8,7 +8,7 @@ With **6+ years of experience**, I focus on building simple, maintainable system
 
 ### 🎯 Current context
 - 📍 **Drummondville, QC**
-- 💼 **Building production systems @ Midbec** → from a 10-year-old legacy PHP system to a modern Go / Next.js stack
+- 💼 **Building production systems @ Midbec** : from a 10-year-old legacy PHP system → to a modern Go / Next.js stack
 - 📚 **Improving my skills in system design and cloud-native engineering**
 - 🔜 **Side quest :** building my own homelab, where my side projects live
 
