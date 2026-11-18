@@ -85,14 +85,10 @@ With **6+ years of experience**, I focus on building simple, maintainable system
   Free technique library, premium training journal behind a Stripe paywall. <br/>
   Built end-to-end → from the Go API to the mobile app, with the App Store release in progress. <br/>
 
-  * 🖥️ : Go (Chi), Expo, Stripe, Neon, Docker, AWS, Terraform
-
 * **☁️ [Nimbus](https://github.com/N95Ryan/nimbus)**
   My personal cloud and homelab, running on a NAS at home. <br/>
   Replaces iCloud for my photos and files, and hosts the backends of my side projects. <br/>
   Private remote access only → no admin interface exposed to the internet. <br/>
-
-  * 🖥️ : UGREEN NAS (UGOS), RAID 5 / Btrfs, Docker, Tailscale
 
 ---
 
