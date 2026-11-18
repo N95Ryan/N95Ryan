@@ -10,7 +10,7 @@ With **6+ years of experience**, I focus on building simple, maintainable system
 - 📍 **Drummondville, QC**
 - 💼 **Building production systems @ Midbec** : from a 10-year-old legacy PHP system → to a modern Go / Next.js stack
 - 📚 **Improving my skills in system design and cloud-native engineering**
-- 🔜 **Side quest :** building my own homelab, where my side projects live
+- 🔜 **Side quest :** building [Nimbus](https://github.com/N95Ryan/nimbus), my own homelab, where my side projects live
 
 > **KISS isn't just my coding principle. It's my inner design system.**
 
@@ -78,7 +78,7 @@ With **6+ years of experience**, I focus on building simple, maintainable system
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 * **🥋 [Flip](https://github.com/N95Ryan/Flip)**
   A judo pocket companion. <br/>
@@ -86,6 +86,13 @@ With **6+ years of experience**, I focus on building simple, maintainable system
   Built end-to-end → from the Go API to the mobile app, with the App Store release in progress. <br/>
 
   * 🖥️ : Go (Chi), Expo, Stripe, Neon, Docker, AWS, Terraform
+
+* **☁️ [Nimbus](https://github.com/N95Ryan/nimbus)**
+  My personal cloud and homelab, running on a NAS at home. <br/>
+  Replaces iCloud for my photos and files, and hosts the backends of my side projects. <br/>
+  Private remote access only → no admin interface exposed to the internet. <br/>
+
+  * 🖥️ : UGREEN NAS (UGOS), RAID 5 / Btrfs, Docker, Tailscale
 
 ---
 
